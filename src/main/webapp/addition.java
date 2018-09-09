@@ -1,1 +1,2 @@
-This addition file.
+This addition:
+  c=a+b;
